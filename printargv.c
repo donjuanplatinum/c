@@ -1,3 +1,5 @@
+//to print the argv of command
+//2023/9/1
 #include <stdio.h>
 void printargv(int argc,char *argv[]);
 
